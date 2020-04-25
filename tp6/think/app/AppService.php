@@ -17,6 +17,9 @@ class AppService extends Service
 
     public function boot()
     {
+
+
+
         // 服务启动
     }
 }
