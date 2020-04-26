@@ -1,0 +1,28 @@
+From c3c556cdb43574d2305c54f6322faf7eccb0d2f1 Mon Sep 17 00:00:00 2001
+From: limmlimm <1084313408@qq.com>
+Date: Sun, 26 Apr 2020 23:55:48 +0800
+Subject: [PATCH] =?UTF-8?q?ghwderf=E8=80=8C=E6=B3=95=E5=9B=BD?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ 1.php | 2 --
+ 1 file changed, 2 deletions(-)
+
+diff --git a/1.php b/1.php
+index a721765..3608c32 100644
+--- a/1.php
++++ b/1.php
+@@ -5,8 +5,6 @@
+ 
+ namespace app\index\controller;
+ 
+-
+-
+ class Pay{
+ 	/*
+ 	**
+-- 
+2.9.0.windows.1
+
