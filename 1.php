@@ -16,6 +16,8 @@ class Pay{
 	*/
 	 public function Alipay(){ 
 		 
+
+		 
 	        // 导入SDK文件
                 vendor('alipay.alipay_core#function');
                 vendor('alipay.alipay_md5#function');
