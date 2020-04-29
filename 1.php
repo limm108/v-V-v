@@ -1,10 +1,9 @@
 <?php
 /*
- *支付接口控制器 作者Sperk解压
+ *支付接口控制器 作者Sperk问题儿童setqqqaaa
  */
 
 namespace app\index\controller;
-
 
 class Pay{
 	/*
@@ -15,8 +14,6 @@ class Pay{
 	**
 	*/
 	 public function Alipay(){ 
-		 
-
 		 
 	        // 导入SDK文件
                 vendor('alipay.alipay_core#function');
