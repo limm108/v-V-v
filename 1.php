@@ -1,6 +1,6 @@
 <?php
 /*
- *支付接口控制器 作者Sperk解压水电费人2为3456
+ *支付接口控制器 作者Sperk解压水电费人2为3456二位热有算法
  */
 
 namespace app\index\controller;
