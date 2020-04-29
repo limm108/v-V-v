@@ -1,6 +1,6 @@
 <?php
 /*
- *支付接口控制器 作者Sperk
+ *支付接口控制器 作者Sperk问题儿童setqqqaaa
  */
 
 namespace app\index\controller;
